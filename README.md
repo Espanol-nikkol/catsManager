@@ -1,24 +1,10 @@
 # test_feip
 
-## Project setup
-```
-npm install
-```
+Project on Flutter.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This manager of cats cans show one cat, or many cats. It's all.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###Desktop screen
+Main Screen | MonoCat Screen | PolyCat Screen
+----|----
+![](src/screenshots/MainScreen.PNG) | ![](src/screenshots/MonoCat.PNG) | ![](src/screenshots/PolyCat.PNG) 
