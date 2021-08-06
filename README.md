@@ -1,6 +1,6 @@
 # testFEIP
 
-Project on Flutter.
+Project on Vue.
 
 This manager of cats cans show one cat, or many cats. It's all.
 
