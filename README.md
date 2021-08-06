@@ -1,4 +1,4 @@
-# testFEIP
+# Cats manager
 
 Project on Vue.
 
