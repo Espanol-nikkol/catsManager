@@ -7,7 +7,7 @@ This manager of cats cans show one cat, or many cats. It's all.
 To run the project:
 * open console
 * run next command
-  * git clone git@github.com:Espanol-nikkol/testFEIP.git
+  * git clone git@github.com:Espanol-nikkol/catsManager.git
   * cd testFEIP
   * npm install
   * npm run serve
